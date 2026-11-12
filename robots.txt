@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clickflame.github.io/california-auto-repair-ratings/sitemap.xml
